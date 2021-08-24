@@ -1,0 +1,13 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+li {
+  margin: 10px;
+}
+.not-selected {
+  background-color: blue;
+}
+.selected {
+  background-color: red;
+}
